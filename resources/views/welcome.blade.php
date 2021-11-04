@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Larabiz testing
+                    Larabiz Russel
                 </div>
 
                 <div class="links">
